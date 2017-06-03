@@ -1,0 +1,42 @@
+div{
+
+   
+	
+	padding :40px;
+	 
+background: url('https://images5.alphacoders.com/478/thumb-1920-478587.jpg');
+background-size: cover;
+margin:-10px;
+
+  text-shadow: 2px 1px 1px black;
+
+}
+a{
+	color:yellow;
+}
+h1{
+position: fixed;
+
+	 top:0%;
+	 left:40%;
+	 color:white;
+
+
+}
+img{
+	margin-top: 50px;
+}
+h2{
+	 margin-top: 50px;
+	 color:solid violet;
+	 color:lightgreen;
+}
+
+h3{
+	font-style: italic;
+	color:white;
+}
+li{
+	font-family: 'Exo 2', sans-serif;
+	color:white;
+}
